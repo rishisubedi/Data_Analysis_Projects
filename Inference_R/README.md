@@ -33,6 +33,9 @@ The frequency table from the R output suggest that the people who regularly foll
   healthy 239 273 <br>
   illness  25   8 <br>
   
+  ![image](https://user-images.githubusercontent.com/22046969/89325205-2e6d8280-d6a8-11ea-9e07-0f52d28e7f0d.png)
+
+Examining the above plot, One can easily agree that the majority of the people are healthy regardless of their health. In more specific, it seem like the relative proportion of the healthy people among Mediterranean users are higher than that of the people who recommend the AHA recommended diet.
 
 
 
