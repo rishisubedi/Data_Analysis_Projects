@@ -17,3 +17,22 @@ When we consider the `death` as a response variable and the `diagnosed` as the e
 
 
 The red line in the scatterplot is the regression line created by our linear model. The linear model predict that the people who are diagnosed with the `AIDS` are likely to death and follows the increasing linear trends.
+
+# Example 2
+
+The `diet.csv` dataset is taken from the http://pluto.huji.ac.il/~msby/StatThink/Datasets/diet.csv and contain following two features:
+
+`type`- describe the type of the diet(Mediterranean diet or recommended diet by American Health Association)
+`health`- describe the condition of the subjects(cancer,death,healthy,fitness)
+
+The frequency table from the R output suggest that the people who regularly follow Mediterranean diet are more likely to be save from the cancer rather than follow the aha diet.
+
+         aha med <br>
+  cancer   15   7 <br>
+  death    24  14 <br>
+  healthy 239 273 <br>
+  illness  25   8 <br>
+  
+
+
+
