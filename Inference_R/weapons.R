@@ -20,3 +20,5 @@ var.test(cn~sex,data=weapons)
 var.test(cw~sex,data=weapons)
 #Applying linear regression model
 lm.weapon<-lm(aw~an, data=weapons)
+#summarised the linear model
+summary(lm.weapon)
